@@ -13,4 +13,4 @@ This project is a collection of code files to support accessing a Store and its 
 
 ## Implementation
 
-This project is implemented using Python, Flask and SQLAlchemy, and is a REST API for a Store and its Items.
+This project is implemented using Python, Flask and SQLAlchemy, and is a REST API for a Store and its Items. This has been deployed on heroku
